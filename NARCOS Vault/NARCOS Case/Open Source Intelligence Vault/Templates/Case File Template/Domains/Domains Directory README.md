@@ -1,0 +1,1 @@
+What goes in the Domains Directory?

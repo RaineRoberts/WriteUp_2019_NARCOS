@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "dcf692b5b8e318a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d821d65752ce26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e8562b6a492114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Locations/Locations of Interest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Locations of Interest"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87668db61cf28659",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d2f923d8e99af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27688366d9a6cde2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2e822e52fa244d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0077bc5818fc9b75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "right": {
+    "id": "70d4285e5ffa0c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b289e656d1ce95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4997ffa63ccbe810",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/2 - Jane Esteban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2 - Jane Esteban"
+            }
+          },
+          {
+            "id": "20fb04c5b66ec3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/2 - Jane Esteban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2 - Jane Esteban"
+            }
+          },
+          {
+            "id": "866d17e9227a9bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5ed4d104c8fcd56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/2 - Jane Esteban.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2 - Jane Esteban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "95e8562b6a492114",
+  "lastOpenFiles": [
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Domains/3 - JELAPTOP Domain List.md",
+    "NARCOS Case Files/3 - JELAPTOP Domain List.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Domains/2 - JOHNFLAPTOP1 Domain List.md",
+    "NARCOS Case Files/2 - JOHNFLAPTOP1 Domain List.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/0 Evidence/Evidence List.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Domains/1 - SK-DESKTOP Domain List.md",
+    "NARCOS Case Files/1 - SK-DESKTOP Domain List.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Devices/3 - JELAPTOP.md",
+    "NARCOS Case Files/3 - JELAPTOP.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Devices/2 - JOHNFLAPTOP1.md",
+    "NARCOS Case Files/2 - JOHNFLAPTOP1.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Devices/1 - SK-DESKTOP.md",
+    "NARCOS Case Files/1 - SK-DESKTOP.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Devices/0 Devices Directory README.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Locations/Locations of Interest.md",
+    "NARCOS Case Files/Locations of Interest.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/4 - Jake Heke.md",
+    "Open Source Intelligence Vault/Closed Cases/Case File - Logan Webster/Case File Summary.md",
+    "Open Source Intelligence Vault/Closed Cases/Case File - Logan Webster/People/Logan Webster.md",
+    "Open Source Intelligence Vault/Closed Cases/Case File - Logan Webster/Domains/Sherlock Scrape.md",
+    "Open Source Intelligence Vault/Closed Cases/Case File - Logan Webster/Domains/Domains of Interest.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/3 - Steve Kowhai.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/1 - John Fredricksen.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/2 - Jane Esteban.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/1 - SK-DESKTOP Media List/eight_col_patches_crp.jpg",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/1 - SK-DESKTOP Media List/data_3__c10330de.jpg",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/1 - SK-DESKTOP Media List/airport crystals.jpg",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/1 - SK-DESKTOP Media List/620x349.jpg",
+    "NARCOS Case Files/Evidence List.pdf",
+    "NARCOS Case Files/4 - Jake Heke.pdf",
+    "NARCOS Case Files/2 - Jane Esteban.pdf",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Locations/0 Locations Directory README.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/2 - JOHNFLAPTOP1 Media List/Steve K.png",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/0 Evidence/0 Evidence Directory README.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/0 NARCOS Case File Summary.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Domains/0 Domains Directory README.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/3 - JELAPTOP Media List/afp.png",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/3 - JELAPTOP Media List/background.jpg",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/3 - JELAPTOP Media List/Diary Day 5.png",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/3 - JELAPTOP Media List/Diary Day 4.png",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/3 - JELAPTOP Media List/Diary Day 3.png",
+    "README.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Devices/1 - TEMPLATE.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/People/0 People Directory README.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/Media List.md",
+    "Open Source Intelligence Vault/Open Cases/Case File - NARCOS/Media/Media Canvas.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Open Source Intelligence Vault/Open Cases/Case File Template/Media/Media Canvas.canvas",
+    "Open Source Intelligence Vault/Closed Cases/Case File - Logan Webster/Case Overview.canvas",
+    "Open Source Intelligence Vault/Templates/Case File Template/Media/Media Canvas.canvas"
+  ]
+}
